@@ -806,31 +806,7 @@ You can use only the settings you need.
 
 ---
 
-# 23. Project Structure
-
-```text
-hyprland-inactive-window-opacity/
-├── README.md
-├── LICENSE
-└── config/
-    └── decoration.lua
-```
-
-### `README.md`
-
-Documentation and installation instructions.
-
-### `LICENSE`
-
-The license governing use, modification, and redistribution of the project.
-
-### `config/decoration.lua`
-
-The reusable Hyprland Lua configuration snippet.
-
----
-
-# 24. Quick Start
+# 23. Quick Start
 
 For experienced Hyprland users, the entire setup can be reduced to:
 
